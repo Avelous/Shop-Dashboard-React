@@ -2,7 +2,7 @@
 
 Project goes through the creation of a responsive shop dashboard UI with React and Syncfusion
 
-Live Demo [shop-dashboard.avel.surge.sh](http://shop-dashboard.avel.surge.sh/)
+Live Demo [shop-dashboard](https://shop-dashboard-gilt.vercel.app/)
 
 ## Getting Started
 
